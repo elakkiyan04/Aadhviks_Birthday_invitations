@@ -1,0 +1,9 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#0B1D2D" />
+  <circle cx="250" cy="250" r="190" fill="#174F68" stroke="#D5AE61" stroke-width="2" />
+  <circle cx="250" cy="200" r="60" fill="#90CDF4" />
+  <ellipse cx="250" cy="280" rx="90" ry="25" fill="#E58FA5" />
+  <text x="250" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#FFF8E8">12th Month - Turns ONE!</text>
+  <text x="250" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#D5AE61">Baby Photo Placeholder</text>
+</svg>
+

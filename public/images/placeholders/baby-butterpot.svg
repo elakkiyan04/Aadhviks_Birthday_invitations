@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#17345C" />
+  <circle cx="250" cy="250" r="190" fill="#174F68" stroke="#D5AE61" stroke-width="2" />
+  <!-- Matka / Butter Pot -->
+  <path d="M210 210 C 190 230, 190 280, 250 285 C 310 280, 310 230, 290 210 Z" fill="#9C772F" />
+  <ellipse cx="250" cy="210" rx="40" ry="12" fill="#D5AE61" />
+  <path d="M220 205 C 230 190, 270 190, 280 205 Z" fill="#FFF8E8" />
+  <text x="250" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#FFF8E8">9th Month Butter Joy</text>
+  <text x="250" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#D5AE61">Baby Photo Placeholder</text>
+</svg>
+

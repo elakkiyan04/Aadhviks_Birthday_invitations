@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --peacock-blue: #174F68;
+  --krishna-blue: #17345C;
+  --antique-gold: #D5AE61;
+  --ivory-cream: #FFF8E8;
+  --sky-blue: #DCEEF4;
+  --peacock-green: #287B70;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #0B1D2D;
+  color: #FFF8E8;
+  overflow-x: hidden;
+  font-family: var(--font-outfit), sans-serif;
+}
+
+/* Custom Gold Shimmer Text */
+.gold-text-gradient {
+  background: linear-gradient(135deg, #FFF1CE 0%, #D5AE61 50%, #9C772F 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-text-shimmer {
+  background: linear-gradient(
+    90deg,
+    #D5AE61 0%,
+    #FFF8E8 25%,
+    #D5AE61 50%,
+    #FFF8E8 75%,
+    #D5AE61 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 4s linear infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
+
+/* Ornate Gold Border Frame */
+.gold-border-glow {
+  border: 1px solid rgba(213, 174, 97, 0.4);
+  box-shadow: 0 0 15px rgba(213, 174, 97, 0.2), inset 0 0 15px rgba(213, 174, 97, 0.1);
+}
+
+.gold-card {
+  background: linear-gradient(
+    180deg,
+    rgba(23, 79, 104, 0.6) 0%,
+    rgba(23, 52, 92, 0.8) 100%
+  );
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(213, 174, 97, 0.35);
+  box-shadow: 0 12px 32px -8px rgba(11, 29, 45, 0.7);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1D2D;
+}
+::-webkit-scrollbar-thumb {
+  background: #D5AE61;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #F7E5B5;
+}
+
+/* Touch & tap highlights */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+

@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#174F68" />
+  <circle cx="250" cy="250" r="190" fill="#17345C" stroke="#D5AE61" stroke-width="2" />
+  <circle cx="250" cy="200" r="65" fill="#90CDF4" />
+  <rect x="180" y="270" width="140" height="12" rx="6" fill="#D5AE61" transform="rotate(-10 250 270)" />
+  <path d="M245 135 C 235 115, 240 100, 250 95 C 260 100, 265 115, 255 135 Z" fill="#287B70" />
+  <circle cx="250" cy="115" r="7" fill="#D5AE61" />
+  <text x="250" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#FFF8E8">3rd Month Flute Melody</text>
+  <text x="250" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#D5AE61">Baby Photo Placeholder</text>
+</svg>
+

@@ -1,0 +1,10 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#0B1D2D" />
+  <circle cx="250" cy="250" r="190" fill="#17345C" stroke="#D5AE61" stroke-width="2" />
+  <circle cx="250" cy="200" r="60" fill="#BEE3F8" />
+  <ellipse cx="250" cy="275" rx="80" ry="40" fill="#ECC94B" />
+  <path d="M245 140 C 235 120, 240 105, 250 100 C 260 105, 265 120, 255 140 Z" fill="#287B70" />
+  <text x="250" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#FFF8E8">6th Month First Steps</text>
+  <text x="250" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#D5AE61">Baby Photo Placeholder</text>
+</svg>
+
